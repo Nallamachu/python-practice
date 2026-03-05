@@ -1,1 +1,5 @@
 ipykernel
+datetime
+pywhatkit
+selenium
+webdriver_manager
