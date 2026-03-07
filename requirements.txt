@@ -3,3 +3,7 @@ datetime
 pywhatkit
 selenium
 webdriver_manager
+pandas
+numpy
+streamlit
+scikit-learn
